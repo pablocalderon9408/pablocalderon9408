@@ -6,4 +6,6 @@ With 2 years experience, I feel confident working with Python and Django. Curren
 
 ⚡ Disciplined, self-learner, goal oriented, skilled to lead people, accountable and always learning.
 
-I work for hackU which is an educational startup.
+I am working for hackU, an educational startup, based on microlearning.
+
+I like to be challenged and surrounded with great people to look up to.
