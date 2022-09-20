@@ -22,5 +22,7 @@ I like to be challenged and surrounded with great people to look up to.
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
-## Statistics 🧐
-![](https://github-readme-stats.vercel.app/api?username=pablocalderon9408)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pablocalderon9408&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pablocalderon9408&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pablocalderon9408&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
