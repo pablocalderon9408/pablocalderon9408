@@ -14,5 +14,8 @@ I like to be challenged and surrounded with great people to look up to.
 
 ## Technologies:
 
-![django](https://user-images.githubusercontent.com/81442833/191163879-188f3178-792b-467c-a545-fb36c1c95dce.jpg)
-![python](https://user-images.githubusercontent.com/81442833/191164029-fbfe58af-1ebf-4e1f-8e5a-657431c88744.png)
+![python3](https://user-images.githubusercontent.com/81442833/191164332-7605d5c7-27c2-4ee3-bbba-bc8e7789025c.svg)
+![html5](https://user-images.githubusercontent.com/81442833/191164359-6d37be6d-7c34-4878-b895-38af681a5164.svg)
+![css](https://user-images.githubusercontent.com/81442833/191164376-a5aa6827-6016-4f6f-8eb1-fdf2fcf968eb.svg)
+![![js](https://user-images.githubusercontent.com/81442833/191164436-8c178772-551d-4f76-8802-2c14423434e4.svg)
+bootstrap](https://user-images.githubusercontent.com/81442833/191164403-1f7707f7-9c0c-4424-967e-220ca6415540.svg)
